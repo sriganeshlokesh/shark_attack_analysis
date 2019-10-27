@@ -74,7 +74,27 @@ Dataset used in this project is `GSAF5-1.xls` from the [Global Shark Attack File
 
 ## Visualizations
 
+#### Day of Week
 
+![Day of week](https://github.com/sriganeshlokesh/shark_attack_analysis/blob/master/images/day_img.png)
 
+Here we can observe that Saturday has the highest number of shark attacks. Since Saturday is a weekend, people tend to encounter shark attacks.
 
+#### Continent
+
+![Continent](https://github.com/sriganeshlokesh/shark_attack_analysis/blob/master/images/continent_img.png)
+
+From the plot, we can see that Australia has the highest number of shark attacks.
+
+#### Month 
+
+![Month](https://github.com/sriganeshlokesh/shark_attack_analysis/blob/master/images/month_img.png)
+
+January has the highest number of shark attacks. The reason behind this is, In Australia, the month of january is considered to be Summer.
+
+#### Year
+
+![Year](https://github.com/sriganeshlokesh/shark_attack_analysis/blob/master/images/year_img.png)
+
+As seen from the plot, 2011 has the highest number of shark attacks.
 
