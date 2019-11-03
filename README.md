@@ -8,7 +8,7 @@ This project is built using Python and the following Python libraries:
 - Seaborn
 - Matplotlib
 
-As this is a ipynb file, you will need a software to run the [Jupyter Notebook](https://github.com/sriganeshlokesh/human_activity_recognition_lstm_keras/blob/master/HAR_LSTM.ipynb)
+As this is a ipynb file, you will need a software to run the [Jupyter Notebook](https://github.com/sriganeshlokesh/shark_attack_analysis/blob/master/shark_attack_final.ipynb)
 
 If Python is not installed on your computer, it is highly recommended to install [Anaconda Distribution](https://www.anaconda.com/distribution/)
 The Anaconda Distribution contains all the above packages and more installed.
